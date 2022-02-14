@@ -1,9 +1,10 @@
 {
-  "name": "nconf",
+  "name": "@acceleratxr/nconf",
   "description": "Hierarchical node.js configuration with files, environment variables, command-line arguments, and atomic object merging.",
   "version": "1.0.0-beta.0",
-  "author": "Charlie Robbins <charlie.robbins@gmail.com>",
+  "author": "AcceleratXR, Inc.",
   "contributors": [
+    "Jean-Philippe Steinmetz <info@acceleratxr.com>",
     "Matt Hamann <matthew.hamann@gmail.com>",
     "Maciej Małecki <me@mmalecki.com>",
     "Jarrett Cruger <jcrugzz@gmail.com>",
